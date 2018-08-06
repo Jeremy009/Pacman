@@ -5,7 +5,7 @@ Result: 19/20
 
 This is my assignment for Object Oriented Programming in Physics, written and compiled with Qt 5.11. It is a copy of the well-known Pacman game.
 
-The list of interresting files:</br>
+The list of interesting files:</br>
 Game.cpp</br>
 Ghosts.cpp</br>
 Health.cpp</br>
