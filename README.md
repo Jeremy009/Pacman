@@ -15,6 +15,4 @@ MovingObjects.cpp</br>
 Score.cpp</br>
 Tile.cpp</br>
 
-The file C
-
-All other files are resources needed for execution
+The file classView.pdf contains an overview of all classes and their methods. All other files are resources needed for execution.
